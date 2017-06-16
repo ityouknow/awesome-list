@@ -4,7 +4,7 @@
 
 awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)，后来发展了各种各样的avesome项目。不过资源都是英文的，不太方便国内同学查看，我这里整理了一些中文的avesome项目。
 
-[参与贡献](https://github.com/ityouknow/awesome-list/issues)
+[参与贡献](https://github.com/ityouknow/awesome-list/issues/new)
 
 ## 目录
 
