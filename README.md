@@ -52,9 +52,3 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [国内免费服务聚合](https://github.com/qinghuaiorg/free-for-dev-zh)  
 - [大学生网站集合](https://github.com/Xuanwo/WebsitesForStudents)  
 
-
-
-
-> 关注公众号获取最新信息
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
