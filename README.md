@@ -39,6 +39,8 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)  
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)  
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)  
+- [Awesome-IT-Books](https://github.com/piggsoft/Awesome-IT-Books)  
+
 
 ## 后端
 
