@@ -16,9 +16,9 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 
 ## 语言
 
-- [Java资源大全中文版](https://github.com/JingwenTian/awesome-php)  
-- [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)  
-- [PHP资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
+- [Java资源大全中文版]()  
+- [Python 资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
+- [PHP资源大全中文版](https://github.com/JingwenTian/awesome-php)  
 - [C++ 语言资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)  
 - [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)  
 - [Android 资源大全中文版](https://github.com/jobbole/awesome-android-cn)  
