@@ -16,7 +16,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 
 ## 语言
 
-- [Java资源大全中文版]()  
+- [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
 - [PHP资源大全中文版](https://github.com/JingwenTian/awesome-php)  
 - [C++ 语言资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)  
@@ -40,7 +40,6 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)  
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)  
 - [Awesome-IT-Books](https://github.com/piggsoft/Awesome-IT-Books)  
-- [微信开发者联盟](https://github.com/Wechat-Group)  
 
 
 ## 后端
@@ -55,6 +54,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [国内免费服务聚合](https://github.com/qinghuaiorg/free-for-dev-zh)  
 - [大学生网站集合](https://github.com/Xuanwo/WebsitesForStudents)  
 - [黑客全站资源](https://github.com/Hack-with-Github/Awesome-Hacking) 
+- [awesome-github](https://github.com/AntBranch/awesome-github) 
 
 
 
