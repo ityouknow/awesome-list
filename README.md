@@ -47,6 +47,8 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 
 - [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)  
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)  
+- [Spring Boot学习资源大全](https://github.com/ityouknow/awesome-spring-boot)  
+- [Spring Cloud学习资源大全](https://github.com/ityouknow/awesome-spring-cloud)  
 
 
 ## 其它
