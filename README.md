@@ -42,6 +42,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)  
 - [Spring Boot学习资源大全](https://github.com/ityouknow/awesome-spring-boot)  
 - [Spring Cloud学习资源大全](https://github.com/ityouknow/awesome-spring-cloud)  
+- [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain)  
 
 
 ## 其它
