@@ -50,7 +50,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 
 - [计算机编程类](https://github.com/justjavac/free-programming-books-zh_CN)  
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)  
-- [收藏各种面试题集合](https://github.com/justdojava/awesome-interviews)  
+- [各种IT面试资源](https://github.com/ityouknow/awesome-interviews)  
 - [当XXX时，到底发生了什么](https://github.com/justjavac/what-happens-when-zh_CN)  
 - [国内免费服务聚合](https://github.com/qinghuaiorg/free-for-dev-zh)  
 - [大学生网站集合](https://github.com/Xuanwo/WebsitesForStudents)  
