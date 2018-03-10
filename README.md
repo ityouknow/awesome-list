@@ -33,7 +33,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)  
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)  
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)  
-- [Awesome-IT-Books](https://github.com/piggsoft/Awesome-IT-Books)  
+- [awesome-vue](https://github.com/vuejs/awesome-vue)  
 
 
 ## 后端
@@ -43,7 +43,8 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [Spring Boot学习资源大全](https://github.com/ityouknow/awesome-spring-boot)  
 - [Spring Cloud学习资源大全](https://github.com/ityouknow/awesome-spring-cloud)  
 - [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain)  
-
+- [docker资源汇总](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)  
+- [机器学习(英文)](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## 其它
 
@@ -55,6 +56,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [大学生网站集合](https://github.com/Xuanwo/WebsitesForStudents)  
 - [黑客全站资源](https://github.com/Hack-with-Github/Awesome-Hacking) 
 - [awesome-github](https://github.com/AntBranch/awesome-github) 
+- [Awesome-IT-Books](https://github.com/piggsoft/Awesome-IT-Books)  
 
 
 
