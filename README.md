@@ -34,6 +34,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)  
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)  
 - [awesome-vue](https://github.com/vuejs/awesome-vue)  
+- [安卓性能](awesome-android-performance)  
 
 
 ## 后端
