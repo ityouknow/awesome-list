@@ -35,6 +35,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)  
 - [awesome-vue](https://github.com/vuejs/awesome-vue)  
 - [安卓性能](awesome-android-performance)  
+- [awesome-angular(英)](https://github.com/gdi2290/awesome-angular)  
 
 
 ## 后端
@@ -46,6 +47,9 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [收集所有区块链(BlockChain)技术开发相关资料](https://github.com/chaozh/awesome-blockchain)  
 - [docker资源汇总](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)  
 - [机器学习(英文)](https://github.com/josephmisiti/awesome-machine-learning)
+- [关于Docker学习资源(英文)](https://github.com/veggiemonk/awesome-docker)
+
+
 
 ## 其它
 
