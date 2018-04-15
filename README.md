@@ -19,12 +19,15 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
 - [Python 资源大全中文版](https://github.com/jobbole/awesome-java-cn)  
 - [PHP资源大全中文版](https://github.com/JingwenTian/awesome-php)  
+- [PHP资源列表](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN)  
 - [C++ 语言资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)  
 - [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)  
 - [Android 资源大全中文版](https://github.com/jobbole/awesome-android-cn)  
 - [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn)  
 - [DotNet 资源大全中文版](https://github.com/jobbole/awesome-dotnet-cn)  
 - [Go语言资源大全中文版](https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md)  
+- [Kotlin 资源大全](https://github.com/xitu/awesome-kotlin-cn)  
+- [Kotlin 进行 Android 开发的开源库](https://github.com/adisonhuang/awesome-kotlin-android)  
 
 
 ## 前端
@@ -36,6 +39,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [awesome-vue](https://github.com/vuejs/awesome-vue)  
 - [安卓性能](awesome-android-performance)  
 - [awesome-angular(英)](https://github.com/gdi2290/awesome-angular)  
+- [安卓UI组建收集](https://github.com/opendigg/awesome-github-android-ui)  
 
 
 ## 后端
@@ -48,7 +52,10 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [docker资源汇总](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)  
 - [机器学习(英文)](https://github.com/josephmisiti/awesome-machine-learning)
 - [关于Docker学习资源(英文)](https://github.com/veggiemonk/awesome-docker)
-
+- [各种语言的爬虫技术](https://github.com/BruceDone/awesome-crawler)
+- [深度学习](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [收集各种爬虫](https://github.com/facert/awesome-spider)
+- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
 
 
 ## 其它
@@ -62,7 +69,9 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [黑客全站资源](https://github.com/Hack-with-Github/Awesome-Hacking) 
 - [awesome-github](https://github.com/AntBranch/awesome-github) 
 - [Awesome-IT-Books](https://github.com/piggsoft/Awesome-IT-Books)  
-
+- [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+- [远程工作的awesome](https://github.com/lukasz-madon/awesome-remote-job)
+- [中文速查表](https://github.com/skywind3000/awesome-cheatsheets)
 
 
 
