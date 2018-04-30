@@ -56,7 +56,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [深度学习](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [收集各种爬虫](https://github.com/facert/awesome-spider)
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
-
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 ## 其它
 
