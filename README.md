@@ -73,6 +73,7 @@ awesome的源头在这里：[awesome](https://github.com/sindresorhus/awesome)�
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 - [远程工作的awesome](https://github.com/lukasz-madon/awesome-remote-job)
 - [中文速查表](https://github.com/skywind3000/awesome-cheatsheets)
+- [Mac 工具列表](https://github.com/jaywcjlove/awesome-mac)
 
 
 
